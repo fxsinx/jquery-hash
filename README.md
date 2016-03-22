@@ -1,5 +1,7 @@
 # jQuery Hash Plugin
 
+Detailed article about this plugin: [here(Chinese)](https://blog.netsh.org/posts/jquery-hash-plugin_1455.netsh.html).
+
 This plugin enables you to store tiny datas in the URL hash.
 
 For example, you may want to save the preference of an webpage user interface in the hash like:
